@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shizzleclover
+- 👋 Hi, I’m Murewa
 - 👀 I’m interested in Frontend web development and cybersecurity
 - 🌱 I’m currently working on the betterment and development of my skills and work ethics 
 - 💞️ I’m looking to collaborate on multiple open source project with no major specifications 
